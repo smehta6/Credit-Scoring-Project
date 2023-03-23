@@ -1,7 +1,7 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-date: "`r Sys.Date()`"
+title: "Credit Scoring Project"
+author: "Soham Mehta"
+date: "03/23/23`"
 site: bookdown::bookdown_site
 ---
 
